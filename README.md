@@ -4,8 +4,8 @@
 
 ## Grob-Planung
 
-1. Meine Noten liegen in einem befriedigenden Schnitt.
-2. Was hatten Sie sich am Ende von LP3 vorgenommen? Was war Ihr VBV? Wie könnten Sie diesen besonders gut üben?
+1. Meine Noten liegen in einem befriedigenden Bereich.
+2. Ich sollte mir Gedanken darüber machen, wie ich einen Prototypen aufbauen kann, d.h. zuerst suche ich mir die wichtigen Funktionen meines Programmes aus.
 3. Projecteuler.net
 4. Was wäre ein geeignetes Projekt für diese LP4?
 
