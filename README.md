@@ -7,23 +7,25 @@
 1. Meine Noten liegen in einem befriedigenden Bereich.
 2. Ich sollte mir Gedanken darüber machen, wie ich einen Prototypen aufbauen kann, d.h. zuerst suche ich mir die wichtigen Funktionen meines Programmes aus.
 3. Projecteuler.net
-4. Was wäre ein geeignetes Projekt für diese LP4?
+4. E-Reader Applikation übernommen von LP3.
 
-## 20.2.2024
+## 23.2.2024
 
-✍️ Heute habe ich... (50-100 Wörter)
+Heute habe ich die Grob-Planung der LP4 fertig gestellt. Ich habe mich entschieden meinen E-Reader von der letzten LP fortzuführen. Als Schwerpunkt zum lernen habe ich mich Projecteuler zugewendet. Dies sollte sorgen, dass ich den Verständnismangel für Algorithmen kompensiere. Die Vier APs für die nächste Sitzung habe ich schon der Planung angefügt.  (52 Wörter)
 
 ## 27.2.2024
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [ ] Viertes AP
+- [ ] Per Tutorial kann ich eine PDF speichern
+- [ ] Problem 8 angehen (Projecteuler.net)
+- [ ] Das Viewpanel ändern, nur wenn ausgewählt PDF anzeigen
+- [ ] Eine Kollektion erstellt - Zugriffsort für die PDFs
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | --------------- | -------------------- | -------------- | -------------- | -------- |
-| 1               |                      |                |                |          |
-| ...             |                      |                |                |          |
-| 4               |                      |                |                |          |
+| 1               | Applikation lauft (Datei wird gelesen)                    | PDF speichern               | PDF ist gespeichert auf der App               |          |
+| 2               | Projecteuler.net offen, Problem 8 offen                     | Problem 8 lösen               | Vergleiche Online, gelöst               |          |
+| 3               | Applikation lauft                      | Start / PDF öffnen               | PDF anzeige               |          |
+| 4               | Applikation lauft                      | navigiere zu Kollektion               | Kollektion wird gezeigt               |          |
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
