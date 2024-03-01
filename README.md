@@ -16,7 +16,7 @@ Heute habe ich die Grob-Planung der LP4 fertig gestellt. Ich habe mich entschied
 ## 27.2.2024
 
 - [ ] Per Tutorial kann ich eine PDF speichern
-- [ ] Problem 8 angehen (Projecteuler.net)
+- [x] Problem 8 angehen (Projecteuler.net)
 - [ ] Das Viewpanel ändern, nur wenn ausgewählt PDF anzeigen
 - [ ] Eine Kollektion erstellt - Zugriffsort für die PDFs
 
@@ -27,9 +27,9 @@ Heute habe ich die Grob-Planung der LP4 fertig gestellt. Ich habe mich entschied
 | 3               | Applikation lauft                      | Start / PDF öffnen               | PDF anzeige               |          |
 | 4               | Applikation lauft                      | navigiere zu Kollektion               | Kollektion wird gezeigt               |          |
 
-✍️ Heute habe ich... (50-100 Wörter)
+Heute habe ich versucht bzgl. der Kollektion ein Navigationssystem zu erstellen. Die verschiedenen möglichkeiten habe ich von Stackoverflow oder letztendlich von Youtube erhalten.
+Ich habe mich entschieden einen Framework für das zu verwenden, jedoch stellt sich heraus, dass ich ein Problem habe. Sonst habe ich Problem 8 mir angesehen und einen versuch gewagt. (53 Wörter)
 
-☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen, und in der Spalte **Erfüllt?** einzutragen, ob Ihr Code die Test-Fälle erfüllt
 
 
 
