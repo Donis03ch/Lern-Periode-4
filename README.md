@@ -13,7 +13,7 @@
 
 Heute habe ich die Grob-Planung der LP4 fertig gestellt. Ich habe mich entschieden meinen E-Reader von der letzten LP fortzuführen. Als Schwerpunkt zum lernen habe ich mich Projecteuler zugewendet. Dies sollte sorgen, dass ich den Verständnismangel für Algorithmen kompensiere. Die Vier APs für die nächste Sitzung habe ich schon der Planung angefügt.  (52 Wörter)
 
-## 27.2.2024
+## 01.3.2024
 
 - [ ] Per Tutorial kann ich eine PDF speichern
 - [x] Problem 8 angehen (Projecteuler.net)
@@ -30,7 +30,16 @@ Heute habe ich die Grob-Planung der LP4 fertig gestellt. Ich habe mich entschied
 Heute habe ich versucht bzgl. der Kollektion ein Navigationssystem zu erstellen. Die verschiedenen möglichkeiten habe ich von Stackoverflow oder letztendlich von Youtube erhalten.
 Ich habe mich entschieden einen Framework für das zu verwenden, jedoch stellt sich heraus, dass ich ein Problem habe. Sonst habe ich Problem 8 mir angesehen und einen versuch gewagt. (53 Wörter)
 
+## 08.3.2024
 
+- [ ] Neue Dateiformate freigeben (Epub, Word)
+- [ ] Problem 11 angehen (Projecteuler.net)
+- [ ] Das Viewpanel ändern
+- [ ] Hochladen/Herunterladen Buttons
+
+| Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
+| --------------- | -------------------- | -------------- | -------------- | -------- |
+|                 |                      |                |                |          |
 
 
 ## Reflexion
