@@ -43,6 +43,17 @@ Ich habe mich entschieden einen Framework für das zu verwenden, jedoch stellt s
 
 Heute habe ich weiter an dem Navigationssystem versucht zu arbeiten. Ich bin zur Folge gekommen, dass es besser wäre dieses System erst zu implementieren, wenn ich eine Bibliothek gefunden habe mit all den nötigen Funktionen die ich für meinen E-Reader brauche. Das Hochladen sollte auch kein Problem mehr darstellen. Zu guter letzt habe ich Problem 11 angefangen. (57 Wörter)
 
+## 15.03.2024
+
+- [ ] Neue Dateiformate freigeben (Epub, Word)
+- [ ] Problem 14 angehen (Projecteuler.net)
+- [ ] Das Viewpanel ändern
+- [ ] Bookmark
+
+| Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
+| --------------- | -------------------- | -------------- | -------------- | -------- |
+|                 |                      |                |                |          |
+
 ## Reflexion
 
 Formen Sie Ihre Zusammenfassungen in Hinblick auf Ihren VBV zu einem zusammenhängenden Text von 100 bis 200 Wörtern (wieder mit Angabe in Klammern).
