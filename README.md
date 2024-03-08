@@ -33,7 +33,7 @@ Ich habe mich entschieden einen Framework für das zu verwenden, jedoch stellt s
 ## 08.3.2024
 
 - [ ] Neue Dateiformate freigeben (Epub, Word)
-- [ ] Problem 11 angehen (Projecteuler.net)
+- [x] Problem 11 angehen (Projecteuler.net)
 - [ ] Das Viewpanel ändern
 - [ ] Hochladen/Herunterladen Buttons
 
@@ -41,6 +41,7 @@ Ich habe mich entschieden einen Framework für das zu verwenden, jedoch stellt s
 | --------------- | -------------------- | -------------- | -------------- | -------- |
 |                 |                      |                |                |          |
 
+Heute habe ich weiter an dem Navigationssystem versucht zu arbeiten. Ich bin zur Folge gekommen, dass es besser wäre dieses System erst zu implementieren, wenn ich eine Bibliothek gefunden habe mit all den nötigen Funktionen die ich für meinen E-Reader brauche. Das Hochladen sollte auch kein Problem mehr darstellen. Zu guter letzt habe ich Problem 11 angefangen. (57 Wörter)
 
 ## Reflexion
 
