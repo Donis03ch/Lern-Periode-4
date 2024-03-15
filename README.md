@@ -18,7 +18,7 @@ Heute habe ich die Grob-Planung der LP4 fertig gestellt. Ich habe mich entschied
 - [ ] Per Tutorial kann ich eine PDF speichern
 - [x] Problem 8 angehen (Projecteuler.net)
 - [ ] Das Viewpanel ändern, nur wenn ausgewählt PDF anzeigen
-- [ ] Eine Kollektion erstellt - Zugriffsort für die PDFs
+- [x] Eine Kollektion erstellt - Zugriffsort für die PDFs
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | --------------- | -------------------- | -------------- | -------------- | -------- |
@@ -46,13 +46,18 @@ Heute habe ich weiter an dem Navigationssystem versucht zu arbeiten. Ich bin zur
 ## 15.03.2024
 
 - [ ] Neue Dateiformate freigeben (Epub, Word)
-- [ ] Problem 14 angehen (Projecteuler.net)
+- [x] Problem 14 angehen (Projecteuler.net)
 - [ ] Das Viewpanel ändern
 - [ ] Bookmark
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | --------------- | -------------------- | -------------- | -------------- | -------- |
 |                 |                      |                |                |          |
+
+Heute habe ich die an der Colletction und dem Viewpanel gearbeitet. Es fehlt allerdings noch an Optimierung, denn es sieht nicht so aus, wie ich es geplant hatte. Das 14te Problem von Projecteuler konnte ich leider nicht lösen. Ich würde sagen für nächste Woche arbeite ich noch an die Sachen, die ich nicht erledigen konnte. Folgend gibt es keine neuen Arbeitspakete für diese Woche. (64 Wörter)
+
+![image](https://github.com/Donis03ch/Lern-Periode-4/assets/111046453/e9968200-c3e6-46f7-9188-22a6b33bc9fa)
+
 
 ## Reflexion
 
