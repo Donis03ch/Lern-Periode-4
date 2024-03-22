@@ -71,6 +71,9 @@ Heute habe ich die an der Colletction und dem Viewpanel gearbeitet. Es fehlt all
 
 Heute habe ich an der NAvigation gearbeitet, grundsätzlich funktioniert diese. Es gibt nur das Problem, dass sich das Mainwindow mit der neuen Page überlappt. Ich hatte bisher kein Erfolg dieses Problem zu beheben. Am Ende gab es noch ein schweres Problem bei Projecteuler zu lösen. Da habe ich auch nicht viel mehr erfolg geerntet. (54 Wörter)
 
+![image](https://github.com/Donis03ch/Lern-Periode-4/assets/111046453/c33f2e8f-910a-4657-9775-ef895def0a37)
+
+
 ## 29.03.2024
 
 - [ ] Neue Dateiformate freigeben (Epub, Word)
