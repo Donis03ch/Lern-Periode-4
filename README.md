@@ -58,6 +58,29 @@ Heute habe ich die an der Colletction und dem Viewpanel gearbeitet. Es fehlt all
 
 ![image](https://github.com/Donis03ch/Lern-Periode-4/assets/111046453/e9968200-c3e6-46f7-9188-22a6b33bc9fa)
 
+## 22.03.2024
+
+- [ ] Neue Dateiformate freigeben (Epub, Word)
+- [ ] Problem 54 angehen (Projecteuler.net)
+- [ ] Das Viewpanel ändern
+- [ ] Bookmark
+
+| Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
+| --------------- | -------------------- | -------------- | -------------- | -------- |
+|                 |                      |                |                |          |
+
+Heute habe ich an der NAvigation gearbeitet, grundsätzlich funktioniert diese. Es gibt nur das Problem, dass sich das Mainwindow mit der neuen Page überlappt. Ich hatte bisher kein Erfolg dieses Problem zu beheben. Am Ende gab es noch ein schweres Problem bei Projecteuler zu lösen. Da habe ich auch nicht viel mehr erfolg geerntet. (54 Wörter)
+
+## 29.03.2024
+
+- [ ] Neue Dateiformate freigeben (Epub, Word)
+- [ ] Problem 70 angehen (Projecteuler.net)
+- [ ] Das Viewpanel ändern
+- [ ] Navigation
+
+| Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
+| --------------- | -------------------- | -------------- | -------------- | -------- |
+|                 |                      |                |                |          |
 
 ## Reflexion
 
