@@ -94,6 +94,25 @@ namespace DEBreader
             }
         }
 
+        private void HomeButton_Click(object sender, RoutedEventArgs e)
+        {
+            MainFrame.Navigate(new HomePage());
+            MainFrame.NavigationService.RemoveBackEntry();
+
+        }
+
+        private void CollectionButton_Click(object sender, RoutedEventArgs e)
+        {
+            MainFrame.Navigate(new CollectionPage());
+            MainFrame.NavigationService.RemoveBackEntry();
+        }
+
+        private void LibraryButton_Click(object sender, RoutedEventArgs e)
+        {
+            MainFrame.Navigate(new LibraryPage());
+            MainFrame.NavigationService.RemoveBackEntry();
+        }
+
 
 
     }
