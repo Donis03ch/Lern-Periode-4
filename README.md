@@ -76,10 +76,8 @@ Heute habe ich an der NAvigation gearbeitet, grundsätzlich funktioniert diese. 
 
 ## 29.03.2024
 
-- [ ] Neue Dateiformate freigeben (Epub, Word)
-- [ ] Problem 70 angehen (Projecteuler.net)
 - [ ] Das Viewpanel ändern
-- [ ] Navigation
+- [ ] Navigationsproblem lösen
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | --------------- | -------------------- | -------------- | -------------- | -------- |
