@@ -96,8 +96,9 @@ namespace DEBreader
 
         private void HomeButton_Click(object sender, RoutedEventArgs e)
         {
-            MainFrame.Navigate(new HomePage());
-            MainFrame.NavigationService.RemoveBackEntry();
+            var homepage = new HomePage(this);
+            homepage.Show();
+            this.Hide();
 
         }
 
