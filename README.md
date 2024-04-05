@@ -85,4 +85,9 @@ Heute habe ich an der NAvigation gearbeitet, grundsätzlich funktioniert diese. 
 
 ## Reflexion
 
-Formen Sie Ihre Zusammenfassungen in Hinblick auf Ihren VBV zu einem zusammenhängenden Text von 100 bis 200 Wörtern (wieder mit Angabe in Klammern).
+Heute habe ich mich intensiv mit der Entwicklung meines Prototyps beschäftigt. Nachdem ich die Grobplanung für LP4 abgeschlossen hatte, entschied ich mich, meinen E-Reader aus der vorherigen LP weiterzuentwickeln. Um meine Kenntnislücken in Algorithmen zu füllen, widmete ich mich dem Project Euler. Ich plante bereits die nächsten Arbeitssitzungen und integrierte vier Arbeitspakete. Ich setzte meine Bemühungen fort, ein Navigationssystem für die Kollektion zu entwickeln. Informationen und Lösungsansätze fand ich auf Stack Overflow und YouTube. Trotz der Entscheidung für ein Framework stieß ich auf Probleme. Dennoch unternahm ich einen Versuch zur Lösung von Problem 8. Im Laufe der Sessions arbeitete ich weiter am Navigationssystem und erkannte, dass es effizienter wäre, es nach der Auswahl einer geeigneten Bibliothek zu implementieren. Das Hochladen sollte dann ebenfalls reibungsloser verlaufen. Später konzentrierte ich mich auf die Verbesserung der Kollektion und des Anzeigepanels. Obwohl noch Optimierungsbedarf besteht, entspricht das Ergebnis nicht ganz meinen Vorstellungen. Es gibt keine neuen Arbeitspakete für die weitere Entwicklung. 
+
+Nachdem ich viel Zeit damit verbracht hatte, das Navigationssystem zu entwickeln, erkannte ich, dass ich an einem Punkt angelangt war, an dem ich allein nicht weiterkam. Trotz meiner Bemühungen stieß ich auf Herausforderungen, die ich nicht allein lösen konnte. Es wurde offensichtlich, dass ich externe Hilfe benötigte, um meine Fortschritte voranzutreiben. Die Entscheidung, mich an die Lehrperson zu wenden, war daher eine logische Schlussfolgerung, um Unterstützung und Beratung zu erhalten, die mir helfen würde, die Probleme zu überwinden und meinen Fortschritt zu beschleunigen. Diese Reflexion betont die Bedeutung, rechtzeitig um Hilfe zu bitten und externe Ressourcen zu nutzen, um Hindernisse zu überwinden und effektiver voranzukommen. (262 Wörter)
+
+
+
